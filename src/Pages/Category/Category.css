@@ -1,0 +1,35 @@
+.gray-text{
+    color: grey;
+    font-size: 18px;
+}
+
+.category-image{
+    height: 200px;
+}
+
+.category-image img{
+   height: 150px;
+   transition: .5s;
+   
+}
+.category-image img:hover{
+   height: 170px;
+   
+}
+
+.single-category{
+    margin-left: 50px;
+   
+}
+
+.category-button{
+    color: white;
+    padding: 8px 30px;
+    border: none;
+    background-color: #198754;
+    border-radius: 15px;
+    
+}
+.category-button:hover{
+    box-shadow: 2px 3px 2px #12ff90;
+}

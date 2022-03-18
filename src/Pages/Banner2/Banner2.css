@@ -1,0 +1,21 @@
+.banner2{
+    /* margin: 0;
+    padding: 0; */
+    position: relative; 
+    background-image: url("https://i.ibb.co/5nVWwHQ/banner.jpg");
+    background-size: cover;
+    height: 75vh;
+    overflow: hidden;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.banner-text h1{
+    font-size: 80px;
+    font-weight: 800;
+    color: #62a402;
+}
+
+
+
